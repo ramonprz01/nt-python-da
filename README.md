@@ -12,3 +12,7 @@ Welcome to my repository that contains the material for the course NT Intro to P
 4. Data Visualisation
 5. Statistics
 6. Exploratory Data Analysis
+
+# This is a test
+
+I am just adding more stuff
